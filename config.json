@@ -1,0 +1,18 @@
+{
+    "url": "http://tmf639-resourceinventory-v4.mybluemix.net/tmf-api/resourceInventoryManagement/v4/",
+    "headers": {
+        "Accept": "application/json",
+        "Content-Type": "application/json",
+        "Authorization": "Bearer 1321321"
+    },
+    "payloads": {
+        "Resource": {
+            "POST": {
+                "payload": {
+                    "name": "RouterXX",
+                    "@type": "Resource"
+                }
+            }
+        }
+    }
+}
